@@ -19,5 +19,8 @@ Log In ..  <br />
 		<input type="button" value="Register" onclick="location.href='Register.php'">
 	</form>
 
+<?php
+
+
 </body> 
 </html>
